@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Younes",
+    "age": 21,
+    "phone": "",
+    "email": "Younes-erraji@gmail.com",
+    "image": "./assets/images/user.jpg",
+    "website": "Younes-erraji.com"
+  },
+  {
+    "name": "Safae",
+    "age": 21,
+    "phone": "+212654988765",
+    "email": "safae-erraji@gmail.com",
+    "image": "./assets/images/user.jpg",
+    "website": ""
+  },
+  {
+    "name": "Ilham",
+    "age": 21,
+    "phone": "+212654988765",
+    "email": "ilham-erraji@gmail.com",
+    "image": "./assets/images/user.jpg",
+    "website": "ilham-erraji.com"
+  },
+  {
+    "name": "Malika",
+    "age": 21,
+    "phone": "+212654988765",
+    "email": "",
+    "image": "./assets/images/user.jpg",
+    "website": "malika-erraji.com"
+  },
+  {
+    "name": "Hakim",
+    "age": 21,
+    "phone": "+212654988765",
+    "email": "hakim-chibi@gmail.com",
+    "image": "./assets/images/user.jpg",
+    "website": "hakim-chibi.com"
+  },
+  {
+    "name": "Oumaima",
+    "age": 21,
+    "phone": "+212654988765",
+    "email": "Oumaima-erraji@gmail.com",
+    "image": "./assets/images/user.jpg",
+    "website": "Oumaima-erraji.com"
+  },
+  {
+    "name": "Unknown",
+    "age": 21,
+    "phone": "+212654988765",
+    "email": "Unknown@gmail.com",
+    "image": "./assets/images/user.jpg",
+    "website": "Unknown.com"
+  }
+]

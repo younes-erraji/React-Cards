@@ -1,0 +1,54 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: cursive, Arial, Tahoma, sans-serif;
+  font-size: 17px;
+}
+.container {
+  width: 1080px;
+  margin: auto;
+  padding: 0 8px;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+@media (max-width: 1080px) {
+  .container {
+    width: 99.8%;
+  }
+}
+.member-card {
+  width: 228px;
+  padding: 7px 7px 14px;
+  background-color: #1d1e1f;
+  text-align: center;
+  margin: 8px 0;
+  border-radius: 2px;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -o-border-radius: 2px;
+  color: #fff;
+}
+.member-card.danger {
+  background-color: #e94242;
+}
+.member-card h2 {
+  margin: 8px 0;
+  padding: 0;
+}
+.member-card img {
+  width: 100%;
+  max-height: 180px;
+  object-fit: cover;
+  object-position: center;
+}
+.member-card span,
+.member-card strong {
+  display: block;
+  line-height: 1.7;
+  color: #fefefe;
+  font-size: 14px;
+}
